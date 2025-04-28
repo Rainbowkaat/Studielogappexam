@@ -66,5 +66,6 @@ Appen kan bruges til at:
 * **Ændre Skrift:** Vælg skrifttype, størrelse og stil til dine noter.
 
 Når du starter appen, kommer der en kort besked på dansk, der siger at du kan begynde at skrive noter.
+![image](https://github.com/user-attachments/assets/81352cba-8f98-47be-8ea3-658c4ee7ddac)
 
 
