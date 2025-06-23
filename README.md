@@ -15,8 +15,6 @@ Denne applikation har brug for følgende biblioteker, som findes i mappen `requi
 
 * **mysql-connector-python**: For at forbinde til og arbejde med MySQL databasen.
 * **tkinter**: Pythons standard værktøj til at lave brugergrænser (GUI).
-* **matplotlib**: For at vise matematiske formler i noter.
-* **Pillow (PIL)**: For at håndtere billeder i noter.
 * **ttkbootstrap**: Et moderne tema til Tkinter, som får appen til at se bedre ud.
 
 Du kan installere disse ved at bruge `pip`:
@@ -61,8 +59,6 @@ Appen kan bruges til at:
 * **Se Noter:** Kig på de noter der er i en mappe.
 * **Gem Noter:** Gem enkelte noter som `.txt` filer.
 * **Flyt Noter:** Put noter fra en mappe til en anden.
-* **Vis Formler:** Se matematiske formler (LaTeX) i dine noter.
-* **Indsæt Billeder:** Se billedfiler i appen (men de er ikke direkte i noten).
 * **Ændre Skrift:** Vælg skrifttype, størrelse og stil til dine noter.
 
 Når du starter appen, kommer der en kort besked på dansk, der siger at du kan begynde at skrive noter.
